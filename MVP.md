@@ -21,8 +21,10 @@ After the OLS we are planning to use these models:
 -	Ridge
 -	Cross validation
 
+In the heatmap below we can see the correlation relationship between the target values to other columns. We can see a correlation relationship between the revenue and other columns. Also, there is a correlation between the animation column and the family column. 
+
 
 <img src="mvp2.png" style="width:400px;height:400px;"/>
 
-In the heatmap below we can see the correlation relationship between the target values to other columns. We can see a correlation relationship between the revenue and other columns. Also, there is a correlation between the animation column and the family column. 
+
 
