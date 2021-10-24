@@ -53,3 +53,9 @@ In this project I will be using
 -	BeautifulSoup 4.
 -	Selenium. 
 -	Requests.
+
+# Original data: 
+- (3621 rows,11 columns)
+- After EDA: (1871 rows, 11 columns)
+- After the Feature engineering: (1871 rows, 29 columns)
+- 28 features and one predictor.
